@@ -1,0 +1,125 @@
+@media (max-width: 767px) 
+{ .banner .btn-primary{
+
+padding: 0;
+
+margin: 0;
+
+padding: 5px 10px;
+}
+.banner .extra{
+
+padding: 0;
+
+margin: 0;
+
+margin-left: 3px;
+
+padding: 5px 10px;
+}
+	.banner .device{
+
+
+bottom: 100px;
+
+margin: 0;
+
+right: 0;
+
+	} 
+}
+@media (max-width: 575px) 
+{ .banner .btn-primary{
+
+padding: 0;
+
+margin: 0;
+
+padding: 5px 10px;
+}
+.banner .extra{
+
+padding: 0;
+
+margin: 0;
+
+margin-left: 3px;
+
+padding: 5px 10px;
+}
+	.banner .device{
+
+bottom: 49px;
+
+margin: 0;
+
+right: 0;
+
+width: 33%;
+    }
+.btn-pricing {
+    font-size: 11px;
+}
+
+
+
+.pricing_and_plan p {   
+    font-size: 11px;
+    line-height: 16px;    
+    }
+
+.ceo {
+    padding-bottom: 15px;
+   
+ }
+.pricing_lcontent h6 {
+    font-size: 12px;    
+    margin-bottom: 5px;
+}
+.pricing_lcontent h5{
+    font-size: 9px;    
+}
+
+.pricing_ceo {
+    margin-left: 13px;
+    padding-top: 0px;
+}
+.inner-content h4 {
+    font-size: 16px;
+}
+.table-heading h2{
+    font-size: 19px;
+}
+
+.btn-pricing{
+    font-size: 17px;
+}
+.inner-content p {
+    font-size: 12px;
+}
+.sub-title {
+    padding-top: 40px;
+}
+
+}
+
+
+@media (max-width: 768px) 
+{ 
+    .btn-primary{
+
+        padding: 7px 7px;
+    
+        font-size: 11px;
+    }
+    .extra{
+        
+        padding: 7px 7px;
+    
+        font-size: 11px;
+    
+    }
+    .btn-pricing {
+        font-size: 12px;
+    }
+}
