@@ -99,8 +99,14 @@ width: 33%;
 }
 .sub-title {
     padding-top: 40px;
+    font-size: 20px;
 }
-
+	.title {
+    font-size: 30px;
+	}
+.download-section h1 {
+    font-size: 31px;
+	}
 }
 
 
